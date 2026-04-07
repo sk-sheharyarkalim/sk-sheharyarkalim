@@ -89,7 +89,7 @@ A **multi-window desktop app** in JavaFX
 ---
 
 ## 📫 Contact Me
-- 📧 Email: [sheharyarkalim@example.com](mailto:sheharyarkalim@example.com)  
+- 📧 Email: [sheharyarkalim98@gmail.com](mailto:sheharyarkalim98@gmail.com)  
 - 🌐 Portfolio: [kalim-s-protfolio.web.app](https://kalim-s-protfolio.web.app/#/dashboard)  
 - 💼 LinkedIn: [linkedin.com/in/sheharyarkalim](https://www.linkedin.com/in/sheharyarkalim/)  
 
